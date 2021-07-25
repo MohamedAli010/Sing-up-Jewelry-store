@@ -1,0 +1,818 @@
+/* Media From 0 to 325 */
+@media screen and (min-width:0px) and (max-width:325px){
+    .gender
+    {
+        width: 50%;
+        margin-top:30px;
+        margin-left:25%;
+    }
+
+    .input-info
+    {
+        margin-left: -4px;
+        grid-template-columns: re;
+        height:400px;
+    }
+
+    .group-1
+    {
+        display: grid;
+        margin-bottom: 85px;
+    }
+
+    .group-1 input 
+    {
+        width:40%;
+        margin-top:15px;
+    }
+
+    .group-2
+    {
+        display: grid;
+        display: grid;
+        margin-bottom: 85px;
+    }
+
+    .group-2 .input-3
+    {
+        width:89%;
+        margin-top:0px;
+        margin-bottom: 15px;
+    }
+
+    .group-2 .input-4
+    {
+        width:100%;
+        margin-top:0px;
+        margin-bottom: 15px;
+    }
+
+    .group-2 .input-5
+    {
+        width:100%;
+        margin-top:0px;
+        margin-bottom: 15px;
+    }
+
+    .group-3
+    {
+        margin-top: 126px;
+        display: grid;
+    }
+
+    .group-3 .input-7 input  
+    {
+        margin-top:15px;
+        width:40%;
+    }
+
+    .group-3 .select-group-3
+    {
+        width:43%;
+    }
+
+    .news, .check, .info
+    {
+        margin: 0;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .email input{
+        width:264.5px;
+        height:19px;
+    }
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:60%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+    .password-text
+    {
+        display: inline-block;
+        width:350px;
+    }
+}
+
+@media screen and (min-width:326px) and (max-width:498px){
+    .gender
+    {
+        width: 50%;
+        margin-top:30px;
+        margin-left:25%;
+    }
+
+    .input-info
+    {
+        margin-left: -4px;
+        grid-template-columns: re;
+        height:400px;
+    }
+
+    .group-1
+    {
+        display: grid;
+        margin-bottom: 85px;
+    }
+
+    .group-1 input 
+    {
+        width:40%;
+        margin-top:15px;
+    }
+
+    .group-2
+    {
+        display: grid;
+        display: grid;
+        margin-bottom: 85px;
+    }
+
+    .group-2 .input-3
+    {
+        width:89%;
+        margin-top:0px;
+        margin-bottom: 15px;
+    }
+
+    .group-2 .input-4
+    {
+        width:100%;
+        margin-top:0px;
+        margin-bottom: 15px;
+    }
+
+    .group-2 .input-5
+    {
+        width:100%;
+        margin-top:0px;
+        margin-bottom: 15px;
+    }
+
+    .group-3
+    {
+        margin-top: 126px;
+        display: grid;
+    }
+
+    .group-3 .input-7 input  
+    {
+        margin-top:15px;
+        width:40%;
+    }
+
+    .group-3 .select-group-3
+    {
+        width:43%;
+    }
+
+    .news, .check, .info
+    {
+        margin: 0;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .email input{
+        width:264.5px;
+        height:19px;
+    }
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:60%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+    .password-text
+    {
+        display: inline-block;
+        width:350px;
+    }
+}
+
+/* Media from 499 top 550 */
+@media screen and (min-width:499px) and (max-width:520px)
+{
+    .gender
+    {
+        width: 50%;
+        margin-top:30px;
+        margin-left: 25%;
+    }
+
+    .input-info
+    {
+        margin-left: -4px;
+    }
+
+    .group-1 input
+    {
+        width:31%;
+    }
+
+    .group-2 input
+    {
+        width:25%;
+    }
+
+    .group-2 .input-5 input 
+    {
+        width:20%;
+    }
+
+    .group-3 .select-group-3, .input-7 input  
+    {
+        width:33%;
+    }
+
+    .news, .check, .info
+    {
+        margin: 0;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .email input{
+        width:100%;
+    }
+
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:50%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+    .password-text
+    {
+        display: inline-block;
+        width:370px;
+    }
+}
+
+@media screen and (min-width:521px) and (max-width:585px)
+{
+    .gender
+    {
+        width: 50%;
+        margin-top:30px;
+        margin-left: 25%;
+    }
+
+    .input-info
+    {
+        margin-left: -4px;
+    }
+
+    .group-1 input
+    {
+        width:35%;
+    }
+
+    .group-2 input
+    {
+        width:33%;
+    }
+
+    .group-2 .input-5 input 
+    {
+        width:20%;
+    }
+
+    .group-3 .select-group-3, .input-7 input  
+    {
+        width:37%;
+    }
+
+    .news, .check, .info
+    {
+        margin: 0;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:50%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+    .password-text
+    {
+        display: inline-block;
+        width:370px;
+    }
+}
+
+@media screen and (min-width:586px) and (max-width:600px)
+{
+    .gender
+    {
+        width: 50%;
+        margin-top:30px;
+        margin-left: 25%;
+    }
+
+    .input-info
+    {
+        margin-left: -4px;
+    }
+
+    .group-1 input
+    {
+        width:35%;
+    }
+
+    .group-2 input
+    {
+        width:33%;
+    }
+
+    .group-2 .input-5 input 
+    {
+        width:20%;
+    }
+
+    .group-3 .select-group-3, .input-7 input  
+    {
+        width:37%;
+    }
+    
+    .email input
+    {
+        width: 400px;
+    }
+    .news, .check, .info
+    {
+        margin: 0;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:50%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+    .password-text
+    {
+        display: inline-block;
+        width:370px;
+    }
+}
+
+@media screen and (min-width:601px) and (max-width:650px)
+{
+    .gender
+    {
+        width: 35%;
+        margin-top:30px;
+        margin-left: 20%;
+    }
+
+    .input-info
+    {
+        margin-left: -4px;
+    }
+
+    .group-1 input
+    {
+        width:40%;
+    }
+
+    .group-2 input
+    {
+        width:35%;
+    }
+
+    .group-2 .input-5 input 
+    {
+        width:28%;
+    }
+
+    .group-3 .select-group-3, .input-7 input  
+    {
+        width:42%;
+    }
+    
+    .email input
+    {
+        width: 400px;
+    }
+    .news, .check, .info
+    {
+        margin: 0;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:50%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .password-text
+    {
+        display: inline-block;
+        width:370px;
+    }
+}
+
+@media screen and (min-width:651px) and (max-width:800px)
+{
+    .input-info
+    {
+        width:60%;
+    }
+    .gender
+    {
+        width: 35%;
+        margin-top:30px;
+        margin-left: 25%;
+    }
+
+    .input-info
+    {
+        margin-left: -4px;
+    }
+
+    .group-1 input
+    {
+        width:45%;
+    }
+
+    .group-2 input
+    {
+        width:45%;
+    }
+
+    .group-2 .input-5 input 
+    {
+        width:28%;
+    }
+
+    .group-3 .select-group-3, .input-7 input  
+    {
+        width:47%;
+    }
+    
+    .email input
+    {
+        width: 400px;
+    }
+    .news, .check, .info
+    {
+        margin: 0;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:50%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .password-text
+    {
+        display: inline-block;
+        width:370px;
+    }
+}
+
+
+@media screen and (min-width:801px) and (max-width:850px)
+{
+    .gender
+    {
+        width: 30%;
+        margin-top:30px;
+        margin-left: 25%;
+    }
+
+    .input-info
+    {
+        margin-left: -4px;
+    }
+
+    .group-1 input 
+    {
+        width:45%;
+    }
+
+    .group-2 input
+    {
+        width:45%;
+    }
+
+    .group-2 .input-5 input 
+    {
+        width:28%;
+    }
+
+    .group-3 .select-group-3, .input-7 input  
+    {
+        width:47%;
+    }
+    
+    .email input
+    {
+        width: 400px;
+    }
+    .news, .check, .info
+    {
+        margin: 0;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:50%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+    .password-text
+    {
+        display: inline-block;
+        width:370px;
+
+    }
+}
+
+@media screen and (min-width:851px) and (max-width:1000px)
+{
+    .gender
+    {
+        width: 28%;
+        margin-top:30px;
+        margin-left: 43%;
+    }
+
+    .input-info
+    {
+        margin-left: 18%;
+    }
+
+    .group-1 input 
+    {
+        width:45%;
+    }
+
+    .group-2 input
+    {
+        width:45%;
+    }
+
+    .news, .check, .info
+    {
+        margin-left: 18%;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:50%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+    .password-text
+    {
+        display: inline-block;
+        width:370px;
+    }
+}
+
+@media screen and (min-width:1001px) and (max-width:1355px)
+{
+    .gender
+    {
+        width: 20%;
+        margin-top:30px;
+        margin-left: 33%;
+    }
+
+    .input-info
+    {
+        margin-left: 18%;
+    }
+
+    .group-1 input 
+    {
+        width:45%;
+    }
+
+    .group-2 input
+    {
+        width:45%;
+    }
+
+    .news, .check, .info
+    {
+        margin-left: 18%;
+    }
+
+    .check
+    {
+        margin-bottom: 15px;
+    }
+
+    .accept 
+    {
+        width:300px;
+        font-size: 14px;
+    }
+
+    .singup-btn
+    {
+        margin: 0;
+        text-align: left;
+    }
+
+    .singup-btn button{
+        width:50%;
+    }
+
+    .or-log-in
+    {
+        margin: 0;
+        text-align: left;
+    }
+    .password-text
+    {
+        display: inline-block;
+        width:370px;
+    }
+
+    .password-2, .password-1
+    {
+        display: flex;
+    }
+}

@@ -1,0 +1,16 @@
+@media screen and (min-width:0) and (max-width:597px)
+{
+    .input-mail input, .input-password input {
+        width:90%;
+    }
+
+    .show
+    {
+        left:87%;
+    }
+
+    .login-btn button {
+        width: 31%;
+        height: 43px;
+    }
+}
